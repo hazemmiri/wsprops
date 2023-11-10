@@ -21,7 +21,7 @@ export const CarData = [
         nationality:"Bambali",
         jerseyNumber:"10",
         age:"31 ans",
-        Image:"https://s.france24.com/media/display/2403143c-30ae-11ee-8934-005056a90284/w:980/p:16x9/17252da87abef915ac4c9bf4d7d9a3dde97df723.webp"
+        image:"https://s.france24.com/media/display/2403143c-30ae-11ee-8934-005056a90284/w:980/p:16x9/17252da87abef915ac4c9bf4d7d9a3dde97df723.webp"
     },
     {
         name:"Kylian Mbappé",
@@ -29,7 +29,7 @@ export const CarData = [
         nationality:"Paris",
         jerseyNumber:"10",
         age:"24 ans",
-        Image:"https://static.onzemondial.com/8/2023/11/photo_article/858413/346027/1200-L-psg-norme-annonce-le-real-madrid-abandonne-dfinitivement-mbapp.jpg"
+        image:"https://static.onzemondial.com/8/2023/11/photo_article/858413/346027/1200-L-psg-norme-annonce-le-real-madrid-abandonne-dfinitivement-mbapp.jpg"
     },
     {
         name:"Achraf Hakimi",
@@ -53,7 +53,7 @@ export const CarData = [
         nationality:"Bambali",
         jerseyNumber:"10",
         age:"31 ans",
-        Image:"https://s.france24.com/media/display/2403143c-30ae-11ee-8934-005056a90284/w:980/p:16x9/17252da87abef915ac4c9bf4d7d9a3dde97df723.webp"
+        image:"https://s.france24.com/media/display/2403143c-30ae-11ee-8934-005056a90284/w:980/p:16x9/17252da87abef915ac4c9bf4d7d9a3dde97df723.webp"
     },
     {
         name:"Kylian Mbappé",
@@ -61,6 +61,6 @@ export const CarData = [
         nationality:"Paris",
         jerseyNumber:"10",
         age:"24 ans",
-        Image:"https://static.onzemondial.com/8/2023/11/photo_article/858413/346027/1200-L-psg-norme-annonce-le-real-madrid-abandonne-dfinitivement-mbapp.jpg"
+        image:"https://static.onzemondial.com/8/2023/11/photo_article/858413/346027/1200-L-psg-norme-annonce-le-real-madrid-abandonne-dfinitivement-mbapp.jpg"
     }
 ]

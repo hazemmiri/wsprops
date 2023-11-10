@@ -5,9 +5,9 @@ const CarsList = (props) => {
   return (
     <>
     <div style={{display:"flex", flexWrap:"wrap", justifyContent:'space-around',margin:"3% 0",border:"5px solid black",padding:"1rem"}}>
-      {props.car.map((carData)=><CarCard car={carData} />)}
+      {props.car.map((carData , index)=><CarCard car={carData} key={index} />)}
     </div>
-    <Button style={{marginLeft:"45%"}}>hazem_miri</Button>
+    <Button style={{marginLeft:"45%"}}>Click</Button>
     </>
   )
   
